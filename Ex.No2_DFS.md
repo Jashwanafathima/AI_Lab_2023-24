@@ -1,6 +1,6 @@
 # Ex.No: 2  Implementation of Depth First Search
 ### NAME : JASHWANA FATHIMA S                                                                     
-### REGISTER NUMBER : 212222040058
+### REGISTER NUMBER : 212222040059
 ### AIM: 
 To write a python program to implement Depth first Search. 
 ### Algorithm:
